@@ -13,7 +13,6 @@ nltk = "*"
 fastapi = "*"
 jinja2 = "*"
 uvicorn = "*"
-streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
 isort = "*"
@@ -23,6 +22,7 @@ langchain-community = "*"
 langsmith = "*"
 pinecone = "*"
 pillow = "*"
+streamlit = "*"
 
 [dev-packages]
 
